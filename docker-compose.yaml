@@ -1,0 +1,10 @@
+version: "3.3"
+services:
+  website:
+    build:
+      context: ./website
+    volumes:
+      # To not include passwords in the image
+      - ./website/src/secret-users.php:/var/www/html/secret-users.php
+    ports:
+      - 8000:80
