@@ -1,6 +1,6 @@
 # 🔒 TicketSwap Security Assessment
 
-We tried to create a simple login form with a profile page. But we only had 20 minutes to build it and this is the final result. We used PHP because that's what we mostly use for other projects – but for simplicity we didn't use a framework. Your task is to help us make the application more secure. Are you up for the challange? :-)
+We tried to create a simple login form with a profile page. But we only had 20 minutes to build it and this is the final result. We used PHP because that's what we mostly use for other projects – but for simplicity we didn't use a framework. Your task is to help us make the application more secure. Are you up for the challenge? :-)
 
 ### Installation
 
