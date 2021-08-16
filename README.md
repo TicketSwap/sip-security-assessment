@@ -29,7 +29,7 @@ docker-compose up --build
 
 ### Handing in the assessment
 
-When you're finished securing the project and did all the git commits, you can zip the entire folder (don't forget the .git), and send it to us in reply of the mail you got with this assessment.
+When you're finished securing the project and did all the git commits, you can zip the entire folder (don't forget the .git), and send it to us in reply of the mail you got with this assessment. If there are issues sending the zip file, please use a service like https://wetransfer.com to upload the zip file there and send us a link to download the files.
 
 ### Good luck
 
